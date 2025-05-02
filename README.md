@@ -25,7 +25,7 @@ private_ip_address = "10.0.2.4"
 
 ## 📸 Screenshot
 
-![Terraform Apply Output](./screenshots/screenshot.png)
+![Terraform Apply Output](./screenshots/terraform-output.png)
 
 ## 🧠 Knowledge Check
 
